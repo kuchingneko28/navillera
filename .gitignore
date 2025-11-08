@@ -1,0 +1,6 @@
+.venv
+bin
+dist
+build
+gallery-dl
+Navillera.spec
